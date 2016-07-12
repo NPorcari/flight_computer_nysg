@@ -1,7 +1,7 @@
 #include <Wire.h>
 #include <Adafruit_LSM9DS0.h>
 #include <Adafruit_Sensor.h>
-//#include <MatrixMath.h>
+#include <MatrixMath.h>
 
 
 bool TestReset = false;
